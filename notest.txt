@@ -1,0 +1,62 @@
+A Linux technical interview assesses your knowledge and skills related to the Linux operating system. Here are common topics and types of questions you might encounter in a Linux technical interview:
+
+**1. Linux Basics:**
+   - Explain the differences between Unix and Linux.
+   - What is a shell, and how does it relate to Linux?
+   - How do you check the current Linux distribution and version?
+   - Describe the Linux file system hierarchy.
+
+**2. Command-Line Skills:**
+   - Demonstrate your knowledge of essential Linux commands (ls, cd, pwd, mkdir, rmdir, rm, cp, mv, touch, cat, less, etc.).
+   - Explain the purpose of the 'chmod' and 'chown' commands.
+   - How do you find files in Linux using 'find' and 'grep'?
+
+**3. Users and Permissions:**
+   - Describe Linux file permissions (read, write, execute) and ownership.
+   - How do you add and manage user accounts in Linux?
+   - Explain the 'sudo' command and its use.
+
+**4. Process Management:**
+   - How do you view running processes in Linux?
+   - What is the purpose of 'ps,' 'top,' and 'kill' commands?
+   - Explain the concept of process states (running, sleeping, zombie, etc.).
+
+**5. File System and Storage:**
+   - Discuss Linux file system types (e.g., ext4, XFS).
+   - How do you check disk space utilization?
+   - Explain LVM (Logical Volume Management) in Linux.
+
+**6. Networking:**
+   - Describe how you configure network interfaces in Linux.
+   - Explain 'ifconfig,' 'netstat,' and 'ip' commands.
+   - What is a firewall, and how do you manage it in Linux?
+
+**7. Shell Scripting:**
+   - Write a simple shell script to perform a specific task.
+   - Explain variables, loops, and conditional statements in shell scripting.
+   - How do you pass arguments to a shell script?
+
+**8. Package Management:**
+   - Discuss package managers in popular Linux distributions (e.g., apt in Debian/Ubuntu, yum in CentOS/RHEL).
+   - How do you install and update software packages?
+
+**9. System Administration:**
+   - Explain the purpose of cron jobs and how to schedule them.
+   - Describe the 'systemctl' command and its use in managing services.
+   - What is SSH, and how do you secure SSH access?
+
+**10. Troubleshooting:**
+    - How do you diagnose and resolve common Linux issues, such as network problems, high CPU usage, and disk space shortages?
+    - Describe your approach to debugging a non-booting Linux system.
+
+**11. Security:**
+    - Discuss Linux security best practices.
+    - How do you secure a Linux server against common vulnerabilities?
+
+**12. Advanced Topics (Depending on the Role):**
+    - High availability and clustering (e.g., Pacemaker, Keepalived).
+    - Web server configuration (e.g., Apache, Nginx).
+    - Containerization and orchestration (e.g., Docker, Kubernetes).
+    - Automation tools (e.g., Ansible, Puppet).
+
+Prepare for your Linux technical interview by reviewing these topics, practicing hands-on tasks, and being ready to discuss your experiences and problem-solving skills. Tailor your preparation based on the specific job requirements and the level of expertise expected. Good luck!

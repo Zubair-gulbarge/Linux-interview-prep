@@ -1,0 +1,104 @@
+Here are some fundamental Linux commands along with brief explanations:
+
+pwd - Print Working Directory:
+
+Shows the current directory/path in the terminal.
+bash
+Copy code
+pwd
+ls - List:
+
+Lists files and directories in the current directory.
+bash
+Copy code
+ls
+cd - Change Directory:
+
+Changes the current directory.
+bash
+Copy code
+cd directory_name
+mkdir - Make Directory:
+
+Creates a new directory.
+bash
+Copy code
+mkdir new_directory
+cp - Copy:
+
+Copies files or directories.
+bash
+Copy code
+cp source_file destination
+mv - Move:
+
+Moves files or directories. It can also be used for renaming.
+bash
+Copy code
+mv source destination
+rm - Remove:
+
+Deletes files or directories.
+bash
+Copy code
+rm file_name
+To remove a directory and its contents:
+bash
+Copy code
+rm -r directory_name
+touch - Create Empty File:
+
+Creates a new empty file.
+bash
+Copy code
+touch filename
+nano - Text Editor:
+
+Opens the Nano text editor.
+bash
+Copy code
+nano filename
+To exit Nano, press Ctrl + X, then Y to confirm, and Enter.
+grep - Search Text:
+
+Searches for a pattern in a file or a stream of text.
+bash
+Copy code
+grep pattern file_name
+chmod - Change File Permissions:
+
+Changes the permissions of a file or directory.
+bash
+Copy code
+chmod permissions file_name
+chown - Change Owner:
+
+Changes the owner of a file or directory.
+bash
+Copy code
+chown new_owner:new_group file_name
+ps - Process Status:
+
+Displays information about currently running processes.
+bash
+Copy code
+ps
+kill - Kill Process:
+
+Sends a signal to terminate a process.
+bash
+Copy code
+kill process_id
+df - Disk Free:
+
+Displays information about disk space usage.
+bash
+Copy code
+df
+These are basic Linux commands that can help you navigate the file system, manage files, and perform common tasks. For more details on each command, you can use the man command followed by the command name, e.g., man ls.
+
+
+
+
+
+
